@@ -1,7 +1,6 @@
-# HW-1-
+# HW-2
+Q.14
 
-HW 1 Fall 2024 Software Engineering / IPD 
+Link to video I find motivating: https://www.youtube.com/watch?v=AvuQVi4IinY&ab_channel=Goalcast
 
-This is an empty repository for you to attempt a pull request as part of HW 1.
-
-
+#Shantnu Bhalla
